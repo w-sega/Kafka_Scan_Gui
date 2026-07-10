@@ -41,6 +41,8 @@ pip3 install kafka-python PySocks
 ## 运行
 
 ```bash
+git clone https://github.com/woods/kafka_scan_gui.git
+cd kafka_scan_gui
 python3 kafka_scan_gui.py
 ```
 
