@@ -41,13 +41,13 @@ pip3 install kafka-python PySocks
 ## 运行
 
 ```bash
-python3 kafka_gui.py
+python3 kafka_scan_gui.py
 ```
 
 macOS 可按实际 Python 路径运行：
 
 ```bash
-/usr/local/bin/python3 kafka_gui.py
+/usr/local/bin/python3 kafka_scan_gui.py
 ```
 
 ## 使用说明
